@@ -20,7 +20,7 @@ public class MyProductDAOImpl implements MyProductDAO{
 	@Override
 	public void addProduct(MyProduct myproduct) throws Exception {
 		sqlSession.insert(ns + "addProduct",myproduct);
-		sqlSession.insert("ProductMapper.addProduct",myproduct);
+		//sqlSession.insert("ProductMapper.addProduct",myproduct);
 	}
 	
 	@Override

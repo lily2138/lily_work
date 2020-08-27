@@ -21,7 +21,7 @@ public class MyProductController{
 	public ModelAndView insert(MyProduct pvo) throws Exception{    //폼에 입력
 		System.out.println("폼으로 받은 데이타 " + pvo.getId());   //0
 		myProductService.addProduct(pvo);
-		System.out.println("폼으로 받은 데이타" + pvo.getId());   //4
+		System.out.println("폼으로 받은 데이타" + pvo.getId());  
 		
 		return new ModelAndView("insert_result","info",pvo);
 	}
