@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.encore.manager.BookManager&apos; to &apos;BookManagerImpl&apos;&#x0D;&#x0A;- Original project: &apos;java04_천정호2&apos;&#x0D;&#x0A;- Original element: &apos;com.encore.manager.BookManager&apos;&#x0D;&#x0A;- Renamed element: &apos;com.encore.manager.BookManagerImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BookManager&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.encore.manager{BookManager.java[BookManager" matchStrategy="1" name="BookManagerImpl" qualified="false" references="true" similarDeclarations="false" stamp="1587018248552" textual="false" version="1.0"/>
+</session>

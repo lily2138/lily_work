@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\yhk\eclipse\javaWorkspace\project01"/>
+			<item value="C:\yhk\eclipse\javaWorkspace\work07_윤하경"/>
+			<item value="C:\yhk\eclipse\javaWorkspace\java19_CollectionAPI_Map"/>
+			<item value="C:\yhk\util\javaUtil\Workshop\MovieTemplate\EncoreMovie"/>
+			<item value="C:\yhk\util\javaUtil\Workshop\Workshop_Solv\java04\java04_천정호"/>
+			<item value="C:\yhk\util\javaUtil\java10_ReferenceArray_Template"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="609" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

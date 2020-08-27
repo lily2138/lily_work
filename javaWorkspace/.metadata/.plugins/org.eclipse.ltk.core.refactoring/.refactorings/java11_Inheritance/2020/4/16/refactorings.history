@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;java12_Polymor/src&apos;&#x0D;&#x0A;- Original project: &apos;java11_Inheritance&apos;&#x0D;&#x0A;- Destination element: &apos;java12_Polymor/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     java11_Inheritance/src/inheritance.parent&#x0D;&#x0A;     java11_Inheritance/src/inheritance.child&#x0D;&#x0A;     java11_Inheritance/src/inheritance.util" description="Copy packages" destination="=java12_Polymor/src" element1="/src&lt;inheritance.parent" element2="/src&lt;inheritance.child" element3="/src&lt;inheritance.util" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1586840703552" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;java21_Exception/src&apos;&#x0D;&#x0A;- Original project: &apos;java18_CollectionAPI&apos;&#x0D;&#x0A;- Destination element: &apos;java21_Exception/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     java18_CollectionAPI/src/com.encore.vo&#x0D;&#x0A;     java18_CollectionAPI/src/com.encore.test&#x0D;&#x0A;     java18_CollectionAPI/src/com.encore.util&#x0D;&#x0A;     java18_CollectionAPI/src/com.encore.service" description="Copy packages" destination="=java21_Exception/src" element1="/src&lt;com.encore.vo" element2="/src&lt;com.encore.test" element3="/src&lt;com.encore.util" element4="/src&lt;com.encore.service" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1587362105034" version="1.0"/>
+</session>

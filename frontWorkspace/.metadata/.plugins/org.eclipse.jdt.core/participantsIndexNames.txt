@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\yhk\workspace\frontWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3985051820.index
+\JQuery\src
+C:\yhk\workspace\frontWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\991641541.index
+\Javascript\src
+C:\yhk\workspace\frontWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2503066254.index
+\JQuery\src
